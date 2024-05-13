@@ -1,6 +1,6 @@
 # Explore Data
 
-This project explores the famous Iris dataset, which contains information about different species of iris flowers. The dataset is often used in machine learning and statistics for classification and clustering tasks.
+This project explores the famous Iris dataset, which contains information about different species of [iris flowers](https://www.kaggle.com/datasets/uciml/iris) "iris flowers"). The dataset is often used in machine learning and statistics for classification and clustering tasks.
 
 ## Dataset Description
 
